@@ -1,2 +1,5 @@
 # TheTrueEmojifier-AHK
- The one true emojifier using Autohotkey and Python's React API
+Tired of normal emojifier adding only 1 emoji after each sentence? 
+Want to scare away friends and families with emoji after every single words?
+Look no further! This is the one true emojifier using Autohotkey and Python's React API
+ 
